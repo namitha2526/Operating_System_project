@@ -162,8 +162,8 @@ Cybersecurity Analyst (intrusion detection).
 
 DevOps / SRE (system monitoring & automation).
 ---
-👨‍💻 Author
-Namitha R– Computer Science & Engineering Student
+👨‍💻 Authors
+Namitha R and Gurumal Roopasree – Computer Science & Engineering Students
 
 Passionate about AI/ML, Data Analytics, Cybersecurity, and Real-world Applications
 
